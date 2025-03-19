@@ -73,6 +73,16 @@ ___
 &nbsp;
 
 ## 📂 **Projects**
+<div style="border: 2px solid #4CAF50; border-radius: 15px; padding: 20px; margin: 20px;">
+  <h2>Project Section</h2>
+  <p>This section is styled with a rounded border.</p>
+  <ul>
+    <li>Project 1: Description</li>
+    <li>Project 2: Description</li>
+    <li>Project 3: Description</li>
+  </ul>
+</div>
+
 
 - 🎯 **SanaExpert AI Agent**: Multimodal AI Customer Support | FastAPI | Agentic AI *(Jan 2025 - Mar 2025)*  
 - 🎧 **Amidiro Audio Assistant**: AI Call Center Agent | Speech Models *(Jan 2024 - Sep 2024)*  
