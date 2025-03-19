@@ -75,11 +75,10 @@ ___
 ## 📂 **Projects**
 # Project Section
 
-| Project    | Description                  | Status      |
-|------------|------------------------------|-------------|
-| Project 1  | Description for Project 1    | Completed   |
-| Project 2  | Description for Project 2    | In Progress |
-| Project 3  | Description for Project 3    | Not Started |
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
 
 
 
