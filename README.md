@@ -79,19 +79,27 @@ ___
 | **🤖 SanaExpert AI Agent: Multimodal AI Customer Support** | **📞 Amidiro Audio Assistant: AI Call Center Agent** |
 | [Link](#) | [Link](#) |
 | FastAPI, Agentic AI, Multimodal AI for customer support. | Speech models, AI for call center automation. |
+
+| **Project** | **Project** |
 |-------------|-------------|
 | **🛒 Safira.AI: AI-powered E-commerce** | **🔍 Product Recommendation & Search** |
 | [Link](#) | [Link](#) |
 | LLMs, Azure AI, AI-driven e-commerce solutions. | Image-based recommender system, AI-powered search. |
+
+| **Project** | **Project** |
 |-------------|-------------|
 | **🏗️ Material Defect Detection** | **🧠 Brain Tumor Detection** |
 | [Link](#) | [Link](#) |
 | Deep learning, Construction defect detection. | U-Net segmentation model, Medical image analysis. |
+
+| **Project** | **Project** |
 |-------------|-------------|
 | **👁️ Facial Recognition & ANPR** | **🕵️‍♂️ Criminal Investigation System (CIS)** |
 | [Link](#) | [Link](#) |
 | YOLO-face, Surveillance, Automatic number plate recognition (ANPR). | OSINT tool, Qlik dashboards for crime investigation. |
 
+| **Project** | **Project** |
+|-------------|-------------|
 | **🐄 Cow Diseases Prediction** | **🦵 Osteoarthritis Detection** |
 | [Link](#) | [Link](#) |
 | CNN-based, Skin disease detection in cows. | ResNet model, Severity classification of osteoarthritis. |
