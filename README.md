@@ -73,49 +73,36 @@ ___
 &nbsp;
 
 ## 📂 **Projects**
-| **Project Title** | **Project Title** |
+
 |-------------------|-------------------|
-| **SanaExpert AI Agent: Multimodal AI Customer Support** | **Amidiro Audio Assistant: AI Call Center Agent** |
+| **🤖 SanaExpert AI Agent: Multimodal AI Customer Support** | **📞 Amidiro Audio Assistant: AI Call Center Agent** |
 | [Link](#) | [Link](#) |
 | FastAPI, Agentic AI, Multimodal AI for customer support. | Speech models, AI for call center automation. |
 
-| **Project Title** | **Project Title** |
 |-------------------|-------------------|
-| **Safira.AI: AI-powered E-commerce** | **Product Recommendation & Search** |
+| **🛒 Safira.AI: AI-powered E-commerce** | **🔍 Product Recommendation & Search** |
 | [Link](#) | [Link](#) |
 | LLMs, Azure AI, AI-driven e-commerce solutions. | Image-based recommender system, AI-powered search. |
 
-| **Project Title** | **Project Title** |
 |-------------------|-------------------|
-| **Material Defect Detection** | **Brain Tumor Detection** |
+| **🏗️ Material Defect Detection** | **🧠 Brain Tumor Detection** |
 | [Link](#) | [Link](#) |
 | Deep learning, Construction defect detection. | U-Net segmentation model, Medical image analysis. |
 
-| **Project Title** | **Project Title** |
 |-------------------|-------------------|
-| **Facial Recognition & ANPR** | **Criminal Investigation System (CIS)** |
+| **👁️ Facial Recognition & ANPR** | **🕵️‍♂️ Criminal Investigation System (CIS)** |
 | [Link](#) | [Link](#) |
 | YOLO-face, Surveillance, Automatic number plate recognition (ANPR). | OSINT tool, Qlik dashboards for crime investigation. |
 
-| **Project Title** | **Project Title** |
 |-------------------|-------------------|
-| **Cow Diseases Prediction** | **Osteoarthritis Detection** |
+| **🐄 Cow Diseases Prediction** | **🦵 Osteoarthritis Detection** |
 | [Link](#) | [Link](#) |
 | CNN-based, Skin disease detection in cows. | ResNet model, Severity classification of osteoarthritis. |
 
 
 
 
-- 🎯 **SanaExpert AI Agent**: Multimodal AI Customer Support | FastAPI | Agentic AI *(Jan 2025 - Mar 2025)*  
-- 🎧 **Amidiro Audio Assistant**: AI Call Center Agent | Speech Models *(Jan 2024 - Sep 2024)*  
-- 🛒 **Safira.AI**: AI-powered E-commerce | LLMs | Azure AI *(Apr 2023 - Sep 2023)*  
-- 🔍 **Product Recommendation & Search**: Image-based recommender *(Jan 2023 - Mar 2023)*  
-- 🏗️ **Material Defect Detection**: Deep Learning for construction defects *(Oct 2022 - Dec 2022)*  
-- 🧠 **Brain Tumor Detection**: U-Net segmentation model *(Jul 2022 - Sep 2022)*  
-- 🕵️ **Facial Recognition & ANPR**: YOLO-face based surveillance *(Jan 2022 - May 2022)*  
-- 🛰️ **Criminal Investigation System (CIS)**: OSINT tool with Qlik dashboards *(Nov 2021 - Apr 2022)*  
-- 🐄 **Cow Diseases Prediction**: CNN-based skin disease detection *(Nov 2020 - Feb 2021)*  
-- 🦴 **Osteoarthritis Detection**: ResNet model for severity classification *(Jan 2020 - May 2020)*
+
 
 &nbsp;
 
