@@ -57,7 +57,7 @@ ___
 
 |  | |
 |:---:|:---|
-| <img src="https://raw.githubusercontent.com/omerjadoon/omerjadoon/refs/heads/main/sanaexpert.png" alt="SanaExpert Logo" width="800"/> | <br> 🤖 **SanaExpert AI Agent** <br>  [🔗 Project Link](https://sanaexpert.es)<br> *Multimodal AI Customer Support* <br> `FastAPI, Agentic AI, Multimodal AI for customer support`. |
+| <img src="https://raw.githubusercontent.com/omerjadoon/omerjadoon/refs/heads/main/sanaexpert.png" alt="SanaExpert Logo" width="800"/> | <br> 🤖 **SanaExpert AI Agent** <br>  [🔗 Project Link](https://sanaexpert.es)<br> *Multilingual AI Customer Support* <br> `FastAPI, Agentic AI, RAG, LangGraph Multimodal AI for customer support`. |
 | <img src="https://raw.githubusercontent.com/omerjadoon/omerjadoon/refs/heads/main/amidiro.jpg" alt="Amidiro Audio Assistant"/> | <br> 📞 **Amidiro Audio Assistant** <br>  [🔗 Project Link](https://amidiro.com/de)<br> *AI Call Center Agent* <br> `Speech models, AI for call center automation`. |
 | <img src="https://raw.githubusercontent.com/omerjadoon/omerjadoon/refs/heads/main/safiraai.png" alt="Safira.AI"/> | <br> 🛒 **Safira.AI** <br>  [🔗 Project Link](https://safira.ai/safira-ai-ecommerce-content-made-easy)<br> *AI-powered E-commerce* <br> `LLMs, Azure AI, AI-driven e-commerce solutions`. |
 | <img src="https://designshack.net/wp-content/uploads/placeholder-image.png" alt="Product Recommendation"/> | <br> 🔍 **Product Recommendation & Search** <br>  [🔗 Project Link](#)<br> *Image-based recommender system, AI-powered search*. |
