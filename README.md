@@ -1,4 +1,4 @@
-# **Omer Khan Jadoon** 👨‍💻  
+ # **Omer Khan Jadoon** 👨‍💻  
 🎯 *Machine Learning Engineer | MLOps | AI Software Engineer*  
 📍 Munich, Germany | ☎️ +49 (176) 68310746 | 📧 omerkhanjadoons@gmail.com  
 🌐 [Website](http://omerkhanjadoon.com) | [LinkedIn](https://www.linkedin.com/in/omerkhanjadoon)  
@@ -55,7 +55,7 @@ ___
 ## 📂 **Projects**
 
 | **Project** | **Project** |
-|-------------|-------------|
+|:---:|:---|
 | **🤖 SanaExpert AI Agent: Multimodal AI Customer Support** | **📞 Amidiro Audio Assistant: AI Call Center Agent** |
 | [Link](#) | [Link](#) |
 | FastAPI, Agentic AI, Multimodal AI for customer support. | Speech models, AI for call center automation. |
