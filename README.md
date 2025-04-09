@@ -54,20 +54,54 @@ ___
 
 ## 📂 **Projects**
 
-| ![](https://via.placeholder.com/300x150?text=SanaExpert+AI) <br> **🤖 SanaExpert AI Agent** <br> *Multimodal AI Customer Support* <br> [🔗 View Project](#) <br> FastAPI, Agentic AI, Multimodal AI for customer support. | ![](https://via.placeholder.com/300x150?text=Amidiro+Audio+Assistant) <br> **📞 Amidiro Audio Assistant** <br> *AI Call Center Agent* <br> [🔗 View Project](#) <br> Speech models, AI for call center automation. |
-|:--:|:--:|
+### 🤖 SanaExpert AI Agent
+![](https://via.placeholder.com/120x80?text=SanaExpert+AI) [🔗 View Project](#)  
+*Multimodal AI Customer Support*  
+FastAPI, Agentic AI, Multimodal AI for customer support.
 
-| ![](https://via.placeholder.com/300x150?text=Safira.AI) <br> **🛒 Safira.AI** <br> *AI-powered E-commerce* <br> [🔗 View Project](#) <br> LLMs, Azure AI, AI-driven e-commerce solutions. | ![](https://via.placeholder.com/300x150?text=Product+Recommender) <br> **🔍 Product Recommendation & Search** <br> [🔗 View Project](#) <br> Image-based recommender system, AI-powered search. |
-|:--:|:--:|
+### 📞 Amidiro Audio Assistant
+![](https://via.placeholder.com/120x80?text=Amidiro+Assistant) [🔗 View Project](#)  
+*AI Call Center Agent*  
+Speech models, AI for call center automation.
 
-| ![](https://via.placeholder.com/300x150?text=Material+Defect+Detection) <br> **🏗️ Material Defect Detection** <br> [🔗 View Project](#) <br> Deep learning, Construction defect detection. | ![](https://via.placeholder.com/300x150?text=Brain+Tumor+Detection) <br> **🧠 Brain Tumor Detection** <br> [🔗 View Project](#) <br> U-Net segmentation model, Medical image analysis. |
-|:--:|:--:|
+### 🛒 Safira.AI
+![](https://via.placeholder.com/120x80?text=Safira.AI) [🔗 View Project](#)  
+*AI-powered E-commerce*  
+LLMs, Azure AI, AI-driven e-commerce solutions.
 
-| ![](https://via.placeholder.com/300x150?text=Facial+Recognition+ANPR) <br> **👁️ Facial Recognition & ANPR** <br> [🔗 View Project](#) <br> YOLO-face, Surveillance, Automatic number plate recognition (ANPR). | ![](https://via.placeholder.com/300x150?text=Criminal+Investigation+System) <br> **🕵️‍♂️ Criminal Investigation System (CIS)** <br> [🔗 View Project](#) <br> OSINT tool, Qlik dashboards for crime investigation. |
-|:--:|:--:|
+### 🔍 Product Recommendation & Search
+![](https://via.placeholder.com/120x80?text=Product+Recommender) [🔗 View Project](#)  
+Image-based recommender system, AI-powered search.
 
-| ![](https://via.placeholder.com/300x150?text=Cow+Disease+Prediction) <br> **🐄 Cow Diseases Prediction** <br> [🔗 View Project](#) <br> CNN-based, Skin disease detection in cows. | ![](https://via.placeholder.com/300x150?text=Osteoarthritis+Detection) <br> **🦵 Osteoarthritis Detection** <br> [🔗 View Project](#) <br> ResNet model, Severity classification of osteoarthritis. |
-|:--:|:--:|
+### 🏗️ Material Defect Detection
+![](https://via.placeholder.com/120x80?text=Defect+Detection) [🔗 View Project](#)  
+*Construction defect detection*  
+Deep learning, image analysis.
+
+### 🧠 Brain Tumor Detection
+![](https://via.placeholder.com/120x80?text=Brain+Tumor) [🔗 View Project](#)  
+*Medical Image Analysis*  
+U-Net segmentation model, MRI classification.
+
+### 👁️ Facial Recognition & ANPR
+![](https://via.placeholder.com/120x80?text=Facial+Recognition) [🔗 View Project](#)  
+*Surveillance AI*  
+YOLO-face, Automatic number plate recognition (ANPR).
+
+### 🕵️‍♂️ Criminal Investigation System (CIS)
+![](https://via.placeholder.com/120x80?text=Investigation+System) [🔗 View Project](#)  
+*OSINT Tool*  
+Qlik dashboards, crime data analytics.
+
+### 🐄 Cow Diseases Prediction
+![](https://via.placeholder.com/120x80?text=Cow+Disease) [🔗 View Project](#)  
+*Animal Health AI*  
+CNN-based model for cow skin disease detection.
+
+### 🦵 Osteoarthritis Detection
+![](https://via.placeholder.com/120x80?text=Osteoarthritis) [🔗 View Project](#)  
+*Medical AI*  
+ResNet model for severity classification.
 
 
 
