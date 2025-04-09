@@ -54,55 +54,68 @@ ___
 
 ## 📂 **Projects**
 
+|  | |
+|:---:|:---|
+| <img src="https://sanaexpert.com/wp-content/uploads/2021/02/logo_sanaexpert_eng.png" alt="SanaExpert Logo" width="200"/>   |
 ### 🤖 SanaExpert AI Agent
 ![](https://via.placeholder.com/120x80?text=SanaExpert+AI) [🔗 View Project](#)  
 *Multimodal AI Customer Support*  
 FastAPI, Agentic AI, Multimodal AI for customer support.
-
+|
+| <img src="https://sanaexpert.com/wp-content/uploads/2021/02/logo_sanaexpert_eng.png" alt="SanaExpert Logo" width="200"/>   |
 ### 📞 Amidiro Audio Assistant
 ![](https://via.placeholder.com/120x80?text=Amidiro+Assistant) [🔗 View Project](#)  
 *AI Call Center Agent*  
 Speech models, AI for call center automation.
+| 
 
+| <img src="https://sanaexpert.com/wp-content/uploads/2021/02/logo_sanaexpert_eng.png" alt="SanaExpert Logo" width="200"/>   |
 ### 🛒 Safira.AI
 ![](https://via.placeholder.com/120x80?text=Safira.AI) [🔗 View Project](#)  
 *AI-powered E-commerce*  
 LLMs, Azure AI, AI-driven e-commerce solutions.
-
+|
+| <img src="https://sanaexpert.com/wp-content/uploads/2021/02/logo_sanaexpert_eng.png" alt="SanaExpert Logo" width="200"/>   |
 ### 🔍 Product Recommendation & Search
 ![](https://via.placeholder.com/120x80?text=Product+Recommender) [🔗 View Project](#)  
 Image-based recommender system, AI-powered search.
-
+|
+| <img src="https://sanaexpert.com/wp-content/uploads/2021/02/logo_sanaexpert_eng.png" alt="SanaExpert Logo" width="200"/>   |
 ### 🏗️ Material Defect Detection
 ![](https://via.placeholder.com/120x80?text=Defect+Detection) [🔗 View Project](#)  
 *Construction defect detection*  
 Deep learning, image analysis.
-
+|
+| <img src="https://sanaexpert.com/wp-content/uploads/2021/02/logo_sanaexpert_eng.png" alt="SanaExpert Logo" width="200"/>   |
 ### 🧠 Brain Tumor Detection
 ![](https://via.placeholder.com/120x80?text=Brain+Tumor) [🔗 View Project](#)  
 *Medical Image Analysis*  
 U-Net segmentation model, MRI classification.
-
+|
+| <img src="https://sanaexpert.com/wp-content/uploads/2021/02/logo_sanaexpert_eng.png" alt="SanaExpert Logo" width="200"/>   |
 ### 👁️ Facial Recognition & ANPR
 ![](https://via.placeholder.com/120x80?text=Facial+Recognition) [🔗 View Project](#)  
 *Surveillance AI*  
 YOLO-face, Automatic number plate recognition (ANPR).
-
+|
+| <img src="https://sanaexpert.com/wp-content/uploads/2021/02/logo_sanaexpert_eng.png" alt="SanaExpert Logo" width="200"/>   |
 ### 🕵️‍♂️ Criminal Investigation System (CIS)
 ![](https://via.placeholder.com/120x80?text=Investigation+System) [🔗 View Project](#)  
 *OSINT Tool*  
 Qlik dashboards, crime data analytics.
-
+|
+| <img src="https://sanaexpert.com/wp-content/uploads/2021/02/logo_sanaexpert_eng.png" alt="SanaExpert Logo" width="200"/>   |
 ### 🐄 Cow Diseases Prediction
 ![](https://via.placeholder.com/120x80?text=Cow+Disease) [🔗 View Project](#)  
 *Animal Health AI*  
 CNN-based model for cow skin disease detection.
-
+|
+| <img src="https://sanaexpert.com/wp-content/uploads/2021/02/logo_sanaexpert_eng.png" alt="SanaExpert Logo" width="200"/>   |
 ### 🦵 Osteoarthritis Detection
 ![](https://via.placeholder.com/120x80?text=Osteoarthritis) [🔗 View Project](#)  
 *Medical AI*  
 ResNet model for severity classification.
-
+|
 
 
 &nbsp;
