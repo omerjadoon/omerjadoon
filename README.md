@@ -52,22 +52,22 @@ ___
 
 &nbsp;
 
+
 ## 📂 **Projects**
 
-| ![](https://via.placeholder.com/200x100?text=SanaExpert+AI)  <br> **🤖 SanaExpert AI Agent**  <br> [🔗 View Project](#)  <br> *Multimodal AI Customer Support*  <br> FastAPI, Agentic AI, Multimodal AI for customer support. | ![](https://via.placeholder.com/200x100?text=Amidiro+Assistant)  <br> **📞 Amidiro Audio Assistant**  <br> [🔗 View Project](#)  <br> *AI Call Center Agent*  <br> Speech models, AI for call center automation. |
-|:--:|:--:|
+|  | |
+|:---:|:---|
+| <img src="https://designshack.net/wp-content/uploads/placeholder-image.png" alt="SanaExpert Logo" width="800"/> | <br> 🤖 **SanaExpert AI Agent** <br> <img src="https://via.placeholder.com/120x80?text=SanaExpert+AI" alt="SanaExpert AI" /> [🔗 Project Link](#)<br> *Multimodal AI Customer Support* <br> `FastAPI, Agentic AI, Multimodal AI for customer support`. |
+| <img src="https://designshack.net/wp-content/uploads/placeholder-image.png" alt="Amidiro Audio Assistant"/> | <br> 📞 **Amidiro Audio Assistant** <br> <img src="https://via.placeholder.com/120x80?text=Amidiro+Assistant" /> [🔗 Project Link](#)<br> *AI Call Center Agent* <br> `Speech models, AI for call center automation`. |
+| <img src="https://designshack.net/wp-content/uploads/placeholder-image.png" alt="Safira.AI"/> | <br> 🛒 **Safira.AI** <br> <img src="https://via.placeholder.com/120x80?text=Safira.AI" /> [🔗 Project Link](#)<br> *AI-powered E-commerce* <br> `LLMs, Azure AI, AI-driven e-commerce solutions`. |
+| <img src="https://designshack.net/wp-content/uploads/placeholder-image.png" alt="Product Recommendation"/> | <br> 🔍 **Product Recommendation & Search** <br>  [🔗 Project Link](#)<br> *Image-based recommender system, AI-powered search*. |
+| <img src="https://designshack.net/wp-content/uploads/placeholder-image.png" alt="Material Defect Detection"/> | <br> 🏗️ **Material Defect Detection** <br>  [🔗 Project Link](#)<br> *Construction defect detection* <br> `Deep learning, image analysis`. |
+| <img src="https://designshack.net/wp-content/uploads/placeholder-image.png" alt="Brain Tumor Detection"/> | <br> 🧠 **Brain Tumor Detection** <br>  [🔗 Project Link](#)<br> *Medical Image Analysis* <br> `U-Net segmentation model, MRI classification`. |
+| <img src="https://designshack.net/wp-content/uploads/placeholder-image.png" alt="Facial Recognition & ANPR"/> | <br> 👁️ **Facial Recognition & ANPR** <br>  [🔗 Project Link](#)<br> *Surveillance AI* <br> `YOLO-face, Automatic number plate recognition (ANPR)`. |
+| <img src="https://designshack.net/wp-content/uploads/placeholder-image.png" alt="Criminal Investigation System"/> | <br> 🕵️‍♂️ **Criminal Investigation System (CIS)** <br>  [🔗 Project Link](#)<br> *OSINT Tool* <br> `Qlik dashboards, crime data analytics`. |
+| <img src="https://designshack.net/wp-content/uploads/placeholder-image.png" alt="Cow Disease Prediction"/> | <br> 🐄 **Cow Diseases Prediction** <br> [🔗 Project Link](#)<br> *Animal Health AI* <br> `CNN-based model for cow skin disease detection`. |
+| <img src="https://designshack.net/wp-content/uploads/placeholder-image.png" alt="Osteoarthritis Detection"/> | <br> 🦵 **Osteoarthritis Detection** <br>  [🔗 Project Link](#)<br> *Medical AI* <br> `ResNet model for severity classification`. |
 
-| ![](https://via.placeholder.com/200x100?text=Safira.AI)  <br> **🛒 Safira.AI**  <br> [🔗 View Project](#)  <br> *AI-powered E-commerce*  <br> LLMs, Azure AI, AI-driven e-commerce solutions. | ![](https://via.placeholder.com/200x100?text=Product+Search)  <br> **🔍 Product Recommendation & Search**  <br> [🔗 View Project](#)  <br> Image-based recommender system, AI-powered search. |
-|:--:|:--:|
-
-| ![](https://via.placeholder.com/200x100?text=Defect+Detection)  <br> **🏗️ Material Defect Detection**  <br> [🔗 View Project](#)  <br> *Construction defect detection*  <br> Deep learning, image analysis. | ![](https://via.placeholder.com/200x100?text=Brain+Tumor)  <br> **🧠 Brain Tumor Detection**  <br> [🔗 View Project](#)  <br> *Medical Image Analysis*  <br> U-Net segmentation model, MRI classification. |
-|:--:|:--:|
-
-| ![](https://via.placeholder.com/200x100?text=Facial+Recognition)  <br> **👁️ Facial Recognition & ANPR**  <br> [🔗 View Project](#)  <br> *Surveillance AI*  <br> YOLO-face, ANPR. | ![](https://via.placeholder.com/200x100?text=Investigation+System)  <br> **🕵️‍♂️ Criminal Investigation System (CIS)**  <br> [🔗 View Project](#)  <br> *OSINT Tool*  <br> Qlik dashboards, crime data analytics. |
-|:--:|:--:|
-
-| ![](https://via.placeholder.com/200x100?text=Cow+Disease)  <br> **🐄 Cow Diseases Prediction**  <br> [🔗 View Project](#)  <br> *Animal Health AI*  <br> CNN-based, cow skin disease detection. | ![](https://via.placeholder.com/200x100?text=Osteoarthritis)  <br> **🦵 Osteoarthritis Detection**  <br> [🔗 View Project](#)  <br> *Medical AI*  <br> ResNet model, severity classification. |
-|:--:|:--:|
 
 &nbsp;
 
