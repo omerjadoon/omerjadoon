@@ -1,7 +1,7 @@
  # **Omer Khan Jadoon** 👨‍💻  
 🎯 *Machine Learning Engineer | MLOps | AI Software Engineer*  
 📍 Munich, Germany | ☎️ +49 (176) 68310746 | 📧 omerkhanjadoons@gmail.com  
-🌐 [Website](http://omerkhanjadoon.com) | [LinkedIn](https://www.linkedin.com/in/omerkhanjadoon)  
+🌐 [Website](http://omerjadoon.com) | [LinkedIn](https://www.linkedin.com/in/omerkhanjadoon)  
 
 ___ 
 
