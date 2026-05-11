@@ -116,7 +116,7 @@ Built AI-powered recommendation/search workflows using image similarity and inte
 - Helped build an AI and Big Data Lab for law-enforcement analytics.
 - Developed OSINT tools and crime-forecasting AI workflows.
 
-### Co-Founder & CEO — Jadoon Technologies LLC  
+### Full stack Engineer — Jadoon Technologies LLC  
 **Nov 2020 – Oct 2021 | Abbottabad, Pakistan**
 
 - Led an 8-person team building cross-platform web and mobile applications.
