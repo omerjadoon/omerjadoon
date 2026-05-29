@@ -65,7 +65,7 @@ ___
 | <img src="https://raw.githubusercontent.com/omerjadoon/omerjadoon/refs/heads/main/braintumor.jpg" alt="Brain Tumor Detection" width="500"/> | <br> 🧠 **Brain Tumor Detection** <br>  [🔗 Project Link](#)<br> *Medical Image Analysis* <br> `U-Net segmentation model, MRI classification`. |
 | <img src="https://designshack.net/wp-content/uploads/placeholder-image.png" alt="Facial Recognition & ANPR" width="500"/> | <br> 👁️ **Facial Recognition & ANPR** <br>  [🔗 Project Link](#)<br> *Surveillance AI* <br> `YOLO-face, Automatic number plate recognition (ANPR)`. |
 | <img src="https://designshack.net/wp-content/uploads/placeholder-image.png" alt="Criminal Investigation System" width="500"/> | <br> 🕵️‍♂️ **Criminal Investigation System (CIS)** <br>  [🔗 Project Link](#)<br> *OSINT Tool* <br> `Qlik dashboards, crime data analytics`. |
-| <img src="https://designshack.net/wp-content/uploads/placeholder-image.png" alt="Cow Disease Prediction" width="500"/> | <br> 🐄 **Cow Diseases Prediction** <br> [🔗 Project Link](#)<br> *Animal Health AI* <br> `CNN-based model for cow skin disease detection`. |
+| <img src="https://raw.githubusercontent.com/omerjadoon/omerjadoon/refs/heads/main/cowdisease.jpeg" alt="Cow Disease Prediction" width="500"/> | <br> 🐄 **Cow Diseases Prediction** <br> [🔗 Project Link](#)<br> *Animal Health AI* <br> `CNN-based model for cow skin disease detection`. |
 | <img src="https://designshack.net/wp-content/uploads/placeholder-image.png" alt="Osteoarthritis Detection" width="500"/> | <br> 🦵 **Osteoarthritis Detection** <br>  [🔗 Project Link](#)<br> *Medical AI* <br> `ResNet model for severity classification`. |
 
 
