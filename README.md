@@ -6,7 +6,7 @@
 ___ 
 
 ## 🚀 *About Me*  
-> Results-driven **Machine Learning Engineer** with 4+ years of experience in **AI**, **Data Science**, **Machine Learning**, **Software Development**, and **MLOps**. Proficient in **Python**, **ML/DL**, **LLM Frameworks**, and **Cloud Deployments**.
+> Full-Stack + AI Engineer with 3+ years of experience building intelligent web applications, AI-powered products, agentic workflows, and RAG systems. I combine Python, JavaScript/TypeScript, modern full-stack development, Generative AI, and MLOps to turn complex ideas into scalable, production-ready solutions. Passionate about creating practical AI tools that automate workflows, improve decisions, and deliver better user experiences.
 
 &nbsp;
 
