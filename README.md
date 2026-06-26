@@ -69,6 +69,14 @@ ___
 
 &nbsp;
 
+## 📜 **Certifications**
+
+- 🏅 **[Microsoft Certified: Azure AI Apps and Agents Developer Associate](https://learn.microsoft.com/api/credentials/share/en-us/omerkhanjadoon/195FA913B491DBB2?sharingId)**  
+  *Microsoft* | Issued: **June 2026** | Expires: **June 2027**  
+  Credential ID: `195FA913B491DBB2`
+
+&nbsp;
+
 ## 🏆 **Awards & Achievements**
 
 - 🥇 **Gold Medal/Chancellor Medal**: Top scorer in department *(Oct 2020)*  
